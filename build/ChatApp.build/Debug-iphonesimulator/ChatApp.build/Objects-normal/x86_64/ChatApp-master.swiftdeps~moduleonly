@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "569e9f197108d12bf5295b8806426f0d"
+build_time: [1541017279, 806173000]
+inputs:
+  "/Users/sriramprasad/Dev/ChatApp/ChatApp/ChatMessages.swift": [1540927156, 0]
+  "/Users/sriramprasad/Dev/ChatApp/ChatMessageTableViewCell.swift": [1541015753, 0]
+  "/Users/sriramprasad/Dev/ChatApp/ChatApp/ViewController.swift": [1541017278, 0]
+  "/Users/sriramprasad/Dev/ChatApp/ChatApp/AppDelegate.swift": [1540920611, 0]
